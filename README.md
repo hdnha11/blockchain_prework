@@ -6,3 +6,7 @@ Hey there! Welcome to the Blockchain prework.
 You can view instructions for this here: http://www.coderschool.vn/prework/blockchain.
 
 Thanks!
+
+## Test result
+
+![walkthrough](https://user-images.githubusercontent.com/1773032/37148013-7b8d7e8e-22fb-11e8-8c08-49af2cac7584.png)
